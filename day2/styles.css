@@ -1,11 +1,19 @@
 body {
 	font-family: sans-serif;
+	width: 1200px;
+	margin: auto;
+}
+
+h3 {
+	font-style: bold;
+	text-align: center;
 }
 
 p {
 	font-size: 1.5em;
 	color: blue;
 	background-color: black;
+	float: left;
 }
 
 a {
@@ -16,4 +24,6 @@ a:hover {
 	color: green;
 	font-size: 1.25em;
 }
+
+
 
